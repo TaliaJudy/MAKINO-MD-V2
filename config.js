@@ -20,14 +20,14 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
+global.Owner = ["254715155196"]; //like 254715155196 
+global.OwnerName =  "Cytra";
+global.BotName = "♱Cytra♱♡⃤";
+global.packname = "♱k9 unit♱♡⃤";                             //Do not change.
+global.author = "Cytra";                               //Do not change.
+global.BotSourceCode = "https://github.com/CytraK/MAKINO-MD-V2"; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com/KhxVyhOf33u6HGlAro4S0z"; 
+global.SupportGroupLink = "https://chat.whatsapp.com/KhxVyhOf33u6HGlAro4S0z"; //Do not change!
 global.menutype = "v3"
 
 global.prefa = ['','!','.',','] 
@@ -67,13 +67,13 @@ global.mess = {
     botadmin: 'Make me Admin first 😌📍.',
     botowner: 'Only my *Owner* can use this command!',
     grouponly: 'This command is only made for *Groups*',
-    privateonly: 'This command is only made for *Private Chat*',
+    privateonly: 'This command is only made for *cytra Chat*',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Wait a lil bit (¬_¬)ﾉ...',
+    waiting: 'Wait a lil bit (¬_¬)ﾉ..mother fucker.',
     nolink: ' provide me *link*',
-    error: 'An error occurd!',
+    error: 'An error occured!',
     banned: 'You cant use the commands because you Are *Banned*',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert,idiot! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert,idiot and i will fuck your mom! This is not a NSFW enabled group!'
     
 }
